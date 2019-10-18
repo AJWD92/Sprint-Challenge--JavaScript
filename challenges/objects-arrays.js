@@ -59,7 +59,7 @@ tRex.roar = function() {
   return 'RAWERSRARARWERSARARARRRR!';
 };
 
-console.log(tRex.roar);
+console.log(tRex.roar());
 
 // ==== Arrays ====
 
